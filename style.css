@@ -14,7 +14,7 @@ header {
   border-style: solid;
   border-color: #cccccc;
 }
-header nav {
+nav {
  float: right;
  border-bottom: 1px;
  border-style: solid;
